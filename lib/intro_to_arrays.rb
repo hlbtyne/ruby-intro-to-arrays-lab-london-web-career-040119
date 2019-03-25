@@ -11,6 +11,6 @@ def first_element(array)
   return array[0]
 end
 
-def third_array(array)
+def third_element(array)
   return array[2]
 end
